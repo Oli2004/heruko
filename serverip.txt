@@ -1,5 +1,5 @@
-6d88c4f93fcb.ngrok.io
-80
+8.tcp.ngrok.io
+13195
 =================
 First line represents the pool IP address.
 Second line is the pool port.
