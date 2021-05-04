@@ -1,0 +1,6 @@
+192.168.194.35
+2811
+=================
+First line represents the pool IP address.
+Second line is the pool port.
+Other lines aren't used.
